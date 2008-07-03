@@ -1,0 +1,9 @@
+A ruby script that will report the top rankings results from rails rumble competition
+
+Gem dependencies:
+none
+
+Usage:
+r = Reporter.new('admin@example.com', 'password', 5)
+r.publish
+
